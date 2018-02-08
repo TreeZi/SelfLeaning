@@ -1,0 +1,10 @@
+# Gitbook相關網站
+1. [GitBook 詳細教程 – 線上電子書/筆記](https://vector.cool/gitbook-tutorial/)
+2. [紀老師程式教學網: About Gitbook](https://www.facebook.com/teacherchi/photos/a.297326326955296.69251.133665993321331/915554848465771/?type=1&theater)
+3. [GitBook 简明教程(簡字)](http://www.chengweiyang.cn/gitbook/index.html)
+4. [步驟 - 如何使用 gitbook 寫書(g0v撰寫)](https://g0v.hackpad.tw/ep/pad/static/wHnCZ8AyqBe)
+5. [CodeData:深入淺出 GitBook 寫作與自助出版，電子書也能多人協作](http://www.codedata.com.tw/social-coding/gitbook-self-publishing)
+6. [用 GitBook 來寫本書吧！](http://www.oxxostudio.tw/articles/201502/gitbook.html)
+7. [GitBook 中文解說 - 2.4(GitBook)](https://www.gitbook.com/book/wastemobile/gitbook-chinese/details)
+8. [GitBook寫作 (GitBook)](https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/chapter_6_gitbookgitbook2.html)
+9. [傻瓜GITBOOK教學 (GitBook)](https://www.gitbook.com/book/zhuanghongkuan1/demo0115/details)
