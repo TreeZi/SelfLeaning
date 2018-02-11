@@ -80,8 +80,3 @@ $ git push						#這串指令的意思，是將前面暫存區的檔案push到Gi
 在輸入`git push`後，程式會要求你輸入`使用者名稱`與`使用者密碼`，而這邊輸入的內容就是一開始設定Github網站的帳號密碼。
 
 接下來，你就可以點進去Github裡面去看剛剛上傳的`hello.md`檔案了！
-how to install git on ubuntu???
-how to use git???
-how to install **github** on ubuntu???
-how to use github on ubuntu???
-can notepadqq/notepad++ can save as markdown???
