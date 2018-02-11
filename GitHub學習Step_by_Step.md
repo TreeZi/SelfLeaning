@@ -80,3 +80,17 @@ $ git push						#這串指令的意思，是將前面暫存區的檔案push到Gi
 在輸入`git push`後，程式會要求你輸入`使用者名稱`與`使用者密碼`，而這邊輸入的內容就是一開始設定Github網站的帳號密碼。
 
 接下來，你就可以點進去Github裡面去看剛剛上傳的`hello.md`檔案了！
+
+## 參考資料
+
+- [我自己整理的一些資料](https://hackmd.io/s/B1T5igarG)
+- [git說明手冊](https://git-scm.com/book/zh-tw/v2/%E9%96%8B%E5%A7%8B-%E9%97%9C%E6%96%BC%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+- [GIT教學](https://www.gitbook.com/book/kingofamani/git-teach/details)
+
+
+### 備忘錄
+
+- [GitBook 中文解說 - 2.4](https://wastemobile.gitbooks.io/gitbook-chinese/content/index.html)
+- [移轉內容到 GitHub](https://wastemobile.gitbooks.io/gitbook-chinese/content/github/transferring_to_github.html)
+- [GitHub 集成](http://www.chengweiyang.cn/gitbook/gitbook.com/config/github.html)
