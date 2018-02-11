@@ -1,10 +1,10 @@
 # 在Ubuntu上運作網路爬蟲：rvest
 
-######tags: `R` `Ubuntu` `rvset` `debug`
+###### tags: `R` `Ubuntu` `rvset` `debug`
 
-######date: `Sun Feb 11 13:19:40 2018`
+###### date: `Sun Feb 11 13:19:40 2018`
 
-######author: `TreeZi`
+###### author: `TreeZi`
 
 # 在Ubuntu上使用R
 ubuntu上透過終端機安裝R，無法安裝Rstudio而只能使用線上服務的`RServer`。而在Ubuntu上，網路爬蟲最重要的Package: `rvest`是無法正常安裝的：
