@@ -7,14 +7,14 @@
 ###### author: `TreeZi`
 
 # 在Ubuntu上使用R
-ubuntu上透過終端機安裝R，無法安裝Rstudio而只能使用線上服務的`RServer`。而在Ubuntu上，網路爬蟲最重要的Package: `rvest`是無法正常安裝的：
+ubuntu上透過終端機安裝R，無法安裝Rstudio而只能使用線上服務的`RServer`。而在Ubuntu上，網路爬蟲最重要的Package`rvest`是無法正常安裝的：
 
 ```{r}
 install.packages('vrest')		#錯誤
 ```
 要解決這個狀況要用別的方式安裝這個Package，方法如下：
 
-```{r}
+```
 sudo add-apt-repository 'deb 
 https://mirrors.nic.cz/R/bin/linux/ubuntu trusty/'
 sudo apt-get update
