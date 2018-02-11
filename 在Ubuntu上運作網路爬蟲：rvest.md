@@ -25,3 +25,4 @@ sudo apt-get install libssl-dev
 
 # 資料來源與出處
 [R Package “rvest” can not insta (credit: stack overflow)](https://stackoverflow.com/questions/46986292/r-package-rvest-can-not-install-and-the-same-as-in-ubuntu-terminal)
+[UBUNTU PACKAGES FOR R](https://mirrors.nic.cz/R/bin/linux/ubuntu/)
