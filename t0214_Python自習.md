@@ -1,8 +1,8 @@
 # 0214.Python自習
 
 -----------------------------------
-####### date: 	`2/14`
-####### lesson: 	[`Python 3 Tutorial 第二堂（2）數值與字串型態`](https://openhome.cc/Gossip/CodeData/PythonTutorial/NumericStringPy3.html)
+###### date: 	`2/14`
+###### lesson: 	[`Python 3 Tutorial 第二堂（2）數值與字串型態`](https://openhome.cc/Gossip/CodeData/PythonTutorial/NumericStringPy3.html)
 -----------------------------------
 
 一門語言提供的資料型態（Data type）、運算子（Operator）、程式碼封裝方式等等，會影響演算法與資料結構的實作方式。
