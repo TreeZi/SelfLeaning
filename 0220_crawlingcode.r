@@ -25,7 +25,7 @@ url <- unlist(url.tmp)
 #網頁內容爬取-------------------------------------
 FUN.art <- function(i){return(tryCatch(read_html(url[i], options = "HUGE"),error = function(e) NULL))}
 FUN.title <- function(i){return(tryCatch(html_nodes(x, "#activity-name") %>% html_text(),error = function(e) NULL))}
-FUN.date <- function(i){return(tryCatch(html_nodes(x, "#post-date") %>% html_text(),error = function(e) NULL)}
+FUN.date <- function(i){return(tryCatch(html_nodes(x, "#post-date") %>% html_text(),error = function(e) NULL))}
 FUN.ctnt <- function(i){return(tryCatch(html_nodes(x, "#img-content") %>% html_text(),error = function(e) NULL))}
 #-------------------------------------------------
 
