@@ -61,10 +61,10 @@ repeat {
         Sys.sleep(runif(2,5,5))
         if (i %% 200 == 0 ) save.image("~/R/crawl_update/crawl_update.2.RData")
         }
-    cha_mat[length(cha_mat)+1] = date.tmp
-    cha_mat[(i*4)-3] = url
-    cha_mat[(i*4)-2] = title.tmp
-    cha_mat[(i*4)-1] = ctnt.tmp
+    cha_mat[(i*5)-4] = list(date.tmp)
+    cha_mat[(i*5)-3] = list(url)
+    cha_mat[(i*5)-2] = list(title.tmp)
+    cha_mat[(i*5)-1] = list(ctnt.tmp)
     i = i + 1
     save.image("~/R/crawl_update/crawl_update.3.RData")
 }
